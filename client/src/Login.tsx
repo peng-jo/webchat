@@ -1,7 +1,7 @@
 import React from "react";
 
 const Login = (): JSX.Element => {
-  return <div className="page-container">
+  return <div className="login-container">
         <div className="login-form-container shadow">
             <div className="login-form-right-side">
                 <div className="top-logo-wrap">
